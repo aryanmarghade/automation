@@ -1,0 +1,9 @@
+{
+  "timestamp": "20261010_174840",
+  "backup_name": "release_m10_snapshot",
+  "version": "1.0.0",
+  "authoritative_db_source": "D:\\projects\\Automation\\backend\\backend\\data\\nexusflow.db",
+  "db_size_bytes": 704512,
+  "workspace_files_backed_up": 56,
+  "integrity_status": "ok"
+}
